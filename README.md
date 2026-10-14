@@ -13,3 +13,7 @@ Want a video tutorial? Watch it here: https://youtu.be/[insert_id_here]
 1. Add `C:\SFML\bin` and `C:\mingw64\bin` to `PATH` OR run `setup.bat` after cloning this.
 1. Open VSCode on the folder extracted in last step and write a basic SFML app in `main.cpp`.
 1. Press `CTRL + SHIFT + B`, OR open `./run.bat` OR do `./run.sh` (Linux) to compile and run!
+
+To continue, you can read the SFML documentation here: https://sfml-dev.org/tutorials/3.1/window/window
+
+Or watch my complete tutorial series for SFML: https://youtube.com/playlist?list=[id]

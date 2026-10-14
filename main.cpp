@@ -1,4 +1,4 @@
-// SFML Docs: https://sfml-dev.org
+// SFML tutorials: https://sfml-dev.org/tutorials/3.1/window/window
 
 // TODO: Include SFML libraries
 
