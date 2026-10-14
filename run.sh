@@ -1,0 +1,1 @@
+g++ -std=c++17 main.cpp -o game.out -lGL -lsfml-graphics -lsfml-window -lsfml-system -lsfml-network -lsfml-audio && ./game.out

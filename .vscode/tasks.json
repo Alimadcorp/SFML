@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build-windows",
+      "type": "shell",
+      "windows": {
+        "command": "./run.bat",
+        "args": []
+      },
+      "linux": {
+        "command": "./run.sh",
+        "args": []
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      }
+    }
+  ]
+}
