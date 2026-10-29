@@ -1,6 +1,6 @@
 # SFML Starter Project
 
-### Easily install and get started with SFML—without the setup headache!
+### Easily install and get started with SFML, without the headache of tedious setup!
 
 Want a video tutorial? [Coming soon](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
